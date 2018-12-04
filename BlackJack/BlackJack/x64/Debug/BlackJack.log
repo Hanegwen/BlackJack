@@ -1,0 +1,5 @@
+﻿  BlackJack.cpp
+c:\workspace\blackjack\blackjack\blackjack\blackjack.cpp(208): error C2280: 'Deck::Deck(void)': attempting to reference a deleted function
+  c:\workspace\blackjack\blackjack\blackjack\blackjack.cpp(71): note: compiler has generated 'Deck::Deck' here
+  c:\workspace\blackjack\blackjack\blackjack\blackjack.cpp(71): note: 'Deck::Deck(void)': function was implicitly deleted because a data member 'Deck::ace' has either no appropriate default constructor or overload resolution was ambiguous
+  c:\workspace\blackjack\blackjack\blackjack\blackjack.cpp(25): note: see declaration of 'Deck::ace'
